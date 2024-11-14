@@ -1,0 +1,2 @@
+I made a sample of the solar system and how it works using 3D models for sun, planets, moons and satellites. 
+The 2 planets (Mercury and Earth) are revolving around the sun and also rotating. moons and satellites are revolving around their respective planets.
